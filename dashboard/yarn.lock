@@ -336,10 +336,10 @@
   resolved "https://registry.npmjs.org/@enplug/dashboard-sdk/-/dashboard-sdk-4.7.19.tgz#4cbec51ef5f5328f015932fef9d378e2e5caad08"
   integrity sha512-BB+mXd8qAmB60S8mK7SE1G/IOsGVxHVqk2g+vorvcFdGbWxbNJNFtekqMStsSCQklmPybBGJMqDkZ+eIdASeNA==
 
-"@enplug/scripts@^1.9.1":
-  version "1.9.1"
-  resolved "https://registry.npmjs.org/@enplug/scripts/-/scripts-1.9.1.tgz#b83ce9d3797c2bded112c63632efb6d3e898b91b"
-  integrity sha512-VCbjYHfnUGBfdJuSmLOmWDclzSmonmp77dmNFmHkiB+lKQaRFfUWUSonR4v83KIz4+oQ9FWzDs2+kLa1EWjy7g==
+"@enplug/scripts@^1.9.7":
+  version "1.9.17"
+  resolved "https://registry.yarnpkg.com/@enplug/scripts/-/scripts-1.9.17.tgz#c93cac16baee999bdb019f257ad572f64f70c070"
+  integrity sha512-Gebv74VJU4QMicFXHah8bJiO/tr+cJWHdrgkuv7bpVhFE6zMcsnBE82vXaFv0ZWtpMazPh5ciLOIvLbi4D176w==
   dependencies:
     aws-sdk "^2.474.0"
     chalk "2.4.1"
@@ -350,6 +350,7 @@
     ncp "^2.0.0"
     path "0.12.7"
     po2json "^1.0.0-alpha"
+    request "^2.88.0"
     rimraf "2.6.2"
     shelljs "0.8.2"
     util.promisify "1.0.0"
@@ -678,9 +679,9 @@ acorn-dynamic-import@^4.0.0:
   integrity sha512-d3OEjQV4ROpoflsnUA8HozoIR504TFxNivYEUi6uwz0IYhBkTDXGuWlNdMtybRt3nqVx/L6XqMt0FxkXuWKZhw==
 
 acorn@^6.0.5:
-  version "6.2.0"
-  resolved "https://registry.npmjs.org/acorn/-/acorn-6.2.0.tgz#67f0da2fc339d6cfb5d6fb244fd449f33cd8bbe3"
-  integrity sha512-8oe72N3WPMjA+2zVG71Ia0nXZ8DpQH+QyyHO+p06jT8eg8FGG3FbcUIi8KziHlAfheJQZeoqbvq1mQSQHXKYLw==
+  version "6.4.1"
+  resolved "https://registry.yarnpkg.com/acorn/-/acorn-6.4.1.tgz#531e58ba3f51b9dacb9a6646ca4debf5b14ca474"
+  integrity sha512-ZVA9k326Nwrj3Cj9jlh3wGFutC2ZornPNARZwsNYqQYgN0EsV2d53w5RN/co65Ohn4sUAUtb1rSUAOD6XN9idA==
 
 adm-zip@^0.4.9:
   version "0.4.13"
